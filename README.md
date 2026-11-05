@@ -46,20 +46,31 @@ The Streamlit application accepts customer details and displays:
 - Estimated churn probability.
 - Higher or lower churn-risk classification.
 - Model threshold used for classification.
+**Live Application:** https://customerchurnprediction-t8gtx87g3mxqk4s6f8tfpa.streamlit.app/
+## Run Locally
 
 ## Run Locally
 
-Install dependencies:
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/sathwickah007-lgtm/Customer_Churn_Prediction.git
+cd Customer_Churn_Prediction
+```
+
+### 2. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Start the dashboard:
+### 3. Launch the Streamlit application
 
 ```bash
 python -m streamlit run app.py
 ```
+
+The application will open in your default browser.
 
 ## Project Limitations
 - The dataset is cross-sectional and does not contain a complete customer event timeline.
