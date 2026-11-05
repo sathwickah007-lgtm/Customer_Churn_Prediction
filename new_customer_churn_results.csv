@@ -1,0 +1,6 @@
+CustomerID,Churn_Probability,Predicted_Churn,Churn_Status
+500001,0.37,1,Likely to Churn
+500002,1.0,1,Likely to Churn
+500003,0.55,1,Likely to Churn
+500004,1.0,1,Likely to Churn
+500005,0.37,1,Likely to Churn

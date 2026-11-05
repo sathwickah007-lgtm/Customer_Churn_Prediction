@@ -1,0 +1,8 @@
+Feature,Drift_Score,Drift_Type,Status
+Age,3.8095,Numeric,Potential Drift
+Tenure,4.7042,Numeric,Potential Drift
+Usage Frequency,3.8282,Numeric,Potential Drift
+Last Interaction,3.414,Numeric,Potential Drift
+Gender,0.0323,Categorical,No Significant Drift
+Subscription Type,0.1383,Categorical,No Significant Drift
+Contract Length,0.2004,Categorical,Potential Drift

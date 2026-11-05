@@ -1,0 +1,6 @@
+CustomerID,Age,Gender,Tenure,Usage Frequency,Support Calls,Payment Delay,Subscription Type,Contract Length,Total Spend,Last Interaction
+500001,25,Male,12,20,2,5,Premium,Annual,750,5
+500002,42,Female,3,5,7,25,Basic,Monthly,200,28
+500003,35,Male,24,15,1,3,Standard,Quarterly,600,12
+500004,55,Female,8,8,4,15,Basic,Annual,450,22
+500005,29,Male,36,25,0,2,Premium,Annual,900,3

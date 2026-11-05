@@ -1,0 +1,21 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+
+# Large datasets — retain separately in submission ZIP
+customer_churn_clean_data.csv
+customer_churn_cleaned.csv
+customer_churn_engineered.csv
+customer_churn_engineered_encoded.csv
+batch_churn_predictions.csv
+
+# Original oversized model
+churn_model_bundle.joblib
+
+# Temporary test
+test_app.py
